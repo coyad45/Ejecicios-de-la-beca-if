@@ -1,0 +1,13 @@
+C:\Users\coyad\source\repos\solucionif\ejerciciosif\bin\Debug\netcoreapp3.1\ejerciciosif.exe
+C:\Users\coyad\source\repos\solucionif\ejerciciosif\bin\Debug\netcoreapp3.1\ejerciciosif.deps.json
+C:\Users\coyad\source\repos\solucionif\ejerciciosif\bin\Debug\netcoreapp3.1\ejerciciosif.runtimeconfig.json
+C:\Users\coyad\source\repos\solucionif\ejerciciosif\bin\Debug\netcoreapp3.1\ejerciciosif.runtimeconfig.dev.json
+C:\Users\coyad\source\repos\solucionif\ejerciciosif\bin\Debug\netcoreapp3.1\ejerciciosif.dll
+C:\Users\coyad\source\repos\solucionif\ejerciciosif\bin\Debug\netcoreapp3.1\ejerciciosif.pdb
+C:\Users\coyad\source\repos\solucionif\ejerciciosif\obj\Debug\netcoreapp3.1\ejerciciosif.csproj.AssemblyReference.cache
+C:\Users\coyad\source\repos\solucionif\ejerciciosif\obj\Debug\netcoreapp3.1\ejerciciosif.AssemblyInfoInputs.cache
+C:\Users\coyad\source\repos\solucionif\ejerciciosif\obj\Debug\netcoreapp3.1\ejerciciosif.AssemblyInfo.cs
+C:\Users\coyad\source\repos\solucionif\ejerciciosif\obj\Debug\netcoreapp3.1\ejerciciosif.csproj.CoreCompileInputs.cache
+C:\Users\coyad\source\repos\solucionif\ejerciciosif\obj\Debug\netcoreapp3.1\ejerciciosif.dll
+C:\Users\coyad\source\repos\solucionif\ejerciciosif\obj\Debug\netcoreapp3.1\ejerciciosif.pdb
+C:\Users\coyad\source\repos\solucionif\ejerciciosif\obj\Debug\netcoreapp3.1\ejerciciosif.genruntimeconfig.cache
